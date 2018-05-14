@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+button {
+    background-color: white;
+    border-radius: black;
+    color: white;
+    font-size: 18px;
+}
+
+#message1 {
+  font-size: 30px;
+}
+
+#one {
+  float: left;
+}
+#two {
+  float: right;
+}
